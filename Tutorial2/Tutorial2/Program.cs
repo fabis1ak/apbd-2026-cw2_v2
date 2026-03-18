@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 Console.WriteLine("Conflict321");
+Console.WriteLine("Conflict123");
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Feautre1");
