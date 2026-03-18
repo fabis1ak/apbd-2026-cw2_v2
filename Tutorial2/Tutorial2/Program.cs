@@ -29,3 +29,10 @@ Console.WriteLine("Feautre5");
     }
     return max;
 }
+
+ static int Calculate(int[] values)
+ {
+     //TODO dodać reszte
+ }
+ 
+ 
