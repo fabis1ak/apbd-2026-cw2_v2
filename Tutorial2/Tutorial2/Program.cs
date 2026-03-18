@@ -30,9 +30,17 @@ Console.WriteLine("Feautre5");
     return max;
 }
 
- static int Calculate(int[] values)
+ static int CalculateMin(int[] values)
  {
-     //TODO dodać reszte
+     int min = values[0];
+     for (int i = 1; i < values.Length; i++)
+     {
+         if (values[i] < min)
+         {
+             min = values[i];
+         }
+     }
+     return min;
  }
  
  
